@@ -1,0 +1,151 @@
+baseURL: "https://linux.net.pk"
+title: "linux dot net dot pk"
+paginate: 10
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+    disableXML: true
+    minifyOutput: true
+
+permalinks:
+  posts: "/:year/:month/:day/:slug/"
+
+params:
+    env: production
+    title: ExampleSite
+    description: "ExampleSite description"
+    keywords:
+      - blog
+      - linux
+      - pakistan
+      - linuxpakistan
+      - junaid uppal
+      - python
+      - open source
+      - security
+    author:
+      - Junaid Saeed Uppal
+#    images:
+#      - 
+    DateFormat: "2006-01-02"
+    defaultTheme: auto
+    disableThemeToggle: false
+
+    ShowReadingTime: true
+    ShowShareButtons: true
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    disableSpecial1stPost: false
+    disableScrollToTop: false
+    comments: false
+    hidemeta: false
+    hideSummary: false
+    showtoc: true
+    tocopen: false
+
+    assets:
+        favicon: "/favicon.ico"
+        favicon16x16: "/favicon-16x16.png"
+        favicon32x32: "/favicon-16x16.png"
+        apple_touch_icon: "/apple-touch-icon.png"
+        safari_pinned_tab: "safari-pinned-tab.svg"
+
+    label:
+        text: "Junaid Saeed Uppal"
+        icon: /pingu.png
+        iconHeight: 35
+
+    # profile-mode
+    profileMode:
+        enabled: false
+        title: ExampleSite
+        subtitle: "This is subtitle"
+        imageUrl: "<img location>"
+        imageWidth: 120
+        imageHeight: 120
+        imageTitle: my image
+        buttons:
+            - name: Posts
+              url: posts
+            - name: Tags
+              url: tags
+
+    # home-info mode
+    homeInfoParams:
+        Title: "السلام عليكم, Hello, 你好, Hola, أهلا, Olá, Привет!  🖖"
+        Content: |
+          I am a pretty ordinary guy, who is frustrated with, enjoys, appreciates and analyzes random things.
+          Please take a look at my [blog posts](/posts) or check out the [list of
+          tags](/tags) for some specific topic. You can learn more about me at [CV](/cv).
+
+    socialIcons:
+        - name: github
+          url: "https://github.com/uppaljs"
+        - name: twitter
+          url: "https://twitter.com/uppaljs"
+        - name: email
+          url: "mailto:junaid.uppal+blog@gmail.com"
+        - name: keybase
+          url: "https://keybase.io/uppal"
+        - name: linkedin
+          url: "https://www.linkedin.com/in/junaid-saeed-uppal-5b3a253/"
+
+    # analytics:
+    #     google:
+    #         SiteVerificationTag: "XYZabc"
+    #     bing:
+    #         SiteVerificationTag: "XYZabc"
+    #     yandex:
+    #         SiteVerificationTag: "XYZabc"
+
+    cover:
+        hidden: true # hide everywhere but not in structured data
+        hiddenInList: true # hide on list pages and home
+        hiddenInSingle: true # hide on single page
+
+    editPost:
+        URL: "https://github.com/uppaljs/linux-dot-net-pk/tree/main/content/"
+        Text: "Suggest Changes"
+        appendFilePath: true
+
+    # for search
+    # https://fusejs.io/api/options.html
+    fuseOpts:
+        isCaseSensitive: false
+        shouldSort: true
+        location: 0
+        distance: 1000
+        threshold: 0.4
+        minMatchCharLength: 0
+        keys: ["title", "permalink", "summary", "content"]
+menu:
+    main:
+        - identifier: posts
+          name: Posts
+          url: /posts/
+          weight: 10
+        - identifier: tags
+          name: Tags
+          url: /tags/
+          weight: 20
+        - identifier: CV
+          name: CV
+          url: /cv/
+          weight: 30
+        # - identifier: example
+        #   name: example.org
+        #   url: https://example.org
+        #   weight: 30
+markup:
+     highlight:
+        anchorLineNos: true
+        codeFences: true
+        guessSyntax: true
+        lineNos: true
+        style: monokai
