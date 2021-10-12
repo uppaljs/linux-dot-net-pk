@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>opendiameter on linux dot net dot pk</title>
+    <link>https://linux.net.pk/tags/opendiameter/</link>
+    <description>Recent content in opendiameter on linux dot net dot pk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 05 Sep 2008 00:29:17 +0000</lastBuildDate><atom:link href="https://linux.net.pk/tags/opendiameter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Opendiameter Compilation Instructions</title>
+      <link>https://linux.net.pk/opendiameter-compilation-instructions/</link>
+      <pubDate>Fri, 05 Sep 2008 00:29:17 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/opendiameter-compilation-instructions/</guid>
+      <description>For FC8
+  Make sure gcc , gcc-c++ , bison , flex , make , openssl and openssl-devel are present
+  yum -y install boost-devel
+  export BOOST_ROOT=/usr/include/
+  Get ACE Here .
+  tar xvf ACE-5.5.tar.gz
+  cd ACE_wrappers
+  mkdir build
+  cd build
+  Patch the configure file
+  — configure.orig 2008-08-05 11:11:19.000000000 -0800
++++ configure 2008-08-05 11:13:30.</description>
+    </item>
+    
+  </channel>
+</rss>

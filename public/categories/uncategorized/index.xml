@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Uncategorized on linux dot net dot pk</title>
+    <link>https://linux.net.pk/categories/uncategorized/</link>
+    <description>Recent content in Uncategorized on linux dot net dot pk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 16 Jan 2015 15:05:54 +0000</lastBuildDate><atom:link href="https://linux.net.pk/categories/uncategorized/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Poor Man’s GSM BTS :: Nuand’s BladeRF &amp; OpenBTS 5 Setup Instructions</title>
+      <link>https://linux.net.pk/poor-mans-gsm-bts-nuands-bladerf-openbts-5-setup-instructions/</link>
+      <pubDate>Fri, 16 Jan 2015 15:05:54 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/poor-mans-gsm-bts-nuands-bladerf-openbts-5-setup-instructions/</guid>
+      <description>!!!! THIS IS FOR EDUCATIONAL PURPOSES ONLY !!!!
+These instructions are for setting up and running OpenBTS with Nuand’s BladeRF x40 Board , These are a work in progress and should be taken as is. This was possible with the help of @mambrus on #bladerf and @rwr on #bladerf.1 and is a collection of different how-tos linked at the end of the post.
+OS Used : Ubuntu 12.04 LTS Server 32 bit , The ISO can be downloaded from here</description>
+    </item>
+    
+    <item>
+      <title>Enable FaceTime on Your Middle-eastern iPhone/iPad</title>
+      <link>https://linux.net.pk/enable-facetime-middle-eastern-iphoneipad/</link>
+      <pubDate>Mon, 10 Nov 2014 18:45:13 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/enable-facetime-middle-eastern-iphoneipad/</guid>
+      <description>I was stuck with an iPhone purchased in the middle-east where Apple blocks FaceTime – Turns out that its just a matter of Carrier Bundles – Apple , from iOS 7 , started signing the carrier bundles , so they couldn’t be modified by end-customers , any modification would result in change of the signature with the modification over-written on reboot with a standard bundle. A developer team from china enabled modifications by releasing a com-center patch that allows an over-ride for the signature check.</description>
+    </item>
+    
+    <item>
+      <title>Raspberry Pi :: Torrent Box</title>
+      <link>https://linux.net.pk/raspberry-pi-torrent-box/</link>
+      <pubDate>Thu, 09 Oct 2014 22:13:09 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/raspberry-pi-torrent-box/</guid>
+      <description>Excellent resource to setting up deluge on raspberry pi for an always-on cheap seedbox!</description>
+    </item>
+    
+    <item>
+      <title>Mobicents</title>
+      <link>https://linux.net.pk/mobicents/</link>
+      <pubDate>Tue, 17 Aug 2010 12:10:46 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/mobicents/</guid>
+      <description>Just found out this gem of a software @ mobicents.org , will start the deployment today , and will record my adventures on this blog 🙂</description>
+    </item>
+    
+    <item>
+      <title>Mbuni – MM7 :: Interconnectivity with Operator</title>
+      <link>https://linux.net.pk/mbuni-mm7-interconnectivity-with-operator/</link>
+      <pubDate>Sun, 15 Aug 2010 19:38:28 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/mbuni-mm7-interconnectivity-with-operator/</guid>
+      <description>Was playing around with Mbuni for a friend of mine , who wanted to use it as a VASP gateway and interconnect it with an operator over MM7. Spent a little while configuring it and thought of posting the configs here for anyone who’s trying to achieve a similar configuration.
+Mbuni consits of
+ MMS Relay MMS Proxy MMS From Email MMSbox  For this sepecific purpose , only MMSBOX is required.</description>
+    </item>
+    
+    <item>
+      <title>2 Years :-)</title>
+      <link>https://linux.net.pk/2-years/</link>
+      <pubDate>Sun, 13 Jun 2010 18:43:21 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/2-years/</guid>
+      <description>Next Month it will be my blog’s [ or attempt at a blog’s] 2nd birthday 😉 – YAAY!
+I just realized that i posted the last post after 1.5 Years 🙂 Everything has been a roller coaster ride since i moved to Afghanistan to work full time at a mobile operator 🙂 Just couldn’t get enough time to update the blog , but i promise to keep posting off and on now 🙂</description>
+    </item>
+    
+    <item>
+      <title>Playing Around with Infobright</title>
+      <link>https://linux.net.pk/playing-around-with-infobright/</link>
+      <pubDate>Sun, 13 Jun 2010 18:37:36 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/playing-around-with-infobright/</guid>
+      <description>Hi,
+I wanted a way to quickly pick , loadup and analyze tickets from our IN platform, ( we’re talking about 1.3 Mil + rows for one file in peak hours ) Waseem [ http://convergence.pk ] , was kind enough to spare some time for the setup and we ended up with infobright [ http://infobright.com ] community edition.
+Infobright’s based on MySQL and uses knowledge base + vertical coloums , which end up making queries run ridiculously fast.</description>
+    </item>
+    
+    <item>
+      <title>It’s Over!</title>
+      <link>https://linux.net.pk/its-over/</link>
+      <pubDate>Sat, 23 Aug 2008 15:49:39 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/its-over/</guid>
+      <description>23rd Aug, 2008.</description>
+    </item>
+    
+    <item>
+      <title>Reverse SSH Tunnel</title>
+      <link>https://linux.net.pk/reverse-ssh-tunnel/</link>
+      <pubDate>Mon, 21 Jul 2008 18:07:58 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/reverse-ssh-tunnel/</guid>
+      <description>ISPs in PK don’t generally allow incoming traffic to your public IP rendering it useless, this is a real pain , when you want to access your machine from a remote location. The solution to it is a reverse ssh tunnel, which will work in the following way
+[Home Machine] ==&amp;gt; {Middle Machine} ==&amp;gt; {You}
+So you’ll map a port from your home machine to your middle machine , which when connected to from the middle machine will forward all traffic to your home machine.</description>
+    </item>
+    
+    <item>
+      <title>Mobilink Wimax</title>
+      <link>https://linux.net.pk/mobilink-wimax/</link>
+      <pubDate>Sat, 19 Jul 2008 22:37:39 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/mobilink-wimax/</guid>
+      <description>Here’s my post / first review of Mobilink Infinity , A new WiMax service by Mobilink GSM in Pakistan.
+I just subscribed to Mobilink Infinity for 1Mbps connection. The installers came over and installed it , the over all installation experience was okay , apart from the fact that they don’t provide you the CPE password , so you cannot do any port mapping / port forwarding, so had to fight with them to get the access.</description>
+    </item>
+    
+  </channel>
+</rss>

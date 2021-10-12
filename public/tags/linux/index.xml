@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>linux on linux dot net dot pk</title>
+    <link>https://linux.net.pk/tags/linux/</link>
+    <description>Recent content in linux on linux dot net dot pk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 04 Nov 2014 19:00:26 +0000</lastBuildDate><atom:link href="https://linux.net.pk/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenVPN Configuration</title>
+      <link>https://linux.net.pk/openvpn-configuration/</link>
+      <pubDate>Tue, 04 Nov 2014 19:00:26 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/openvpn-configuration/</guid>
+      <description>Below is the configuration i use for OpenVPN server , It supports user / password authentication,TCP mode and disables TLS which is not supported by Mikrotik ( atleast for now )</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>configuration on linux dot net dot pk</title>
+    <link>https://linux.net.pk/tags/configuration/</link>
+    <description>Recent content in configuration on linux dot net dot pk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 27 Nov 2014 13:09:30 +0000</lastBuildDate><atom:link href="https://linux.net.pk/tags/configuration/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Asterisk Config for PTCL SmartLink App</title>
+      <link>https://linux.net.pk/asterisk-config-ptcl-smartlink-app/</link>
+      <pubDate>Thu, 27 Nov 2014 13:09:30 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/asterisk-config-ptcl-smartlink-app/</guid>
+      <description>PTCL has recently launched an app called “SmartLink” , Which provides you access to your phone line over SIP , essentially providing landline access from anywhere.
+Since the land-line I have is only used for DSL and SmartTV, I wanted to set it up on SIP , so I can access it from any device.
+PTCL uses Huawei SoftX 3000 Soft Switches for this service , I have had experience on these switches from my previous jobs and I know that it requires PRACK support to start off , In addition , while configuring , I noticed that the user_agent also needs to be set to a certain value for the registration to be successful.</description>
+    </item>
+    
+  </channel>
+</rss>

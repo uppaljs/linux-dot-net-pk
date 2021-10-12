@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>cgrates on linux dot net dot pk</title>
+    <link>https://linux.net.pk/tags/cgrates/</link>
+    <description>Recent content in cgrates on linux dot net dot pk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 02 Nov 2017 17:11:57 +0000</lastBuildDate><atom:link href="https://linux.net.pk/tags/cgrates/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CGRateS Tutorial Series- Installation – Mongo DB Server Install – Debian 8 – Part 1</title>
+      <link>https://linux.net.pk/cgrates-installation-mongo-db-server-install-debian-8/</link>
+      <pubDate>Thu, 02 Nov 2017 17:11:57 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/cgrates-installation-mongo-db-server-install-debian-8/</guid>
+      <description>Below are the steps to prepare a stand alone mongodb server for cgrates on Debian 8 jessie
+Install sudo
+1  # apt-get install sudo   Import key
+1  # apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv 0C49F3730359A14518585931BC711F9BA15703C6   Add repository URL
+1  # echo &amp;#34;deb http://repo.mongodb.org/apt/debian jessie/mongodb-org/3.4 main&amp;#34; | sudo tee /etc/apt/sources.list.d/mongodb-org-3.4.list   Update and Install
+1 2 3  # apt-get update # apt-get install -y mongodb-org   Enable and Start</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on linux dot net dot pk</title>
+    <link>https://linux.net.pk/tags/</link>
+    <description>Recent content in Tags on linux dot net dot pk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 02 Nov 2017 17:11:57 +0000</lastBuildDate><atom:link href="https://linux.net.pk/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cgrates</title>
+      <link>https://linux.net.pk/tags/cgrates/</link>
+      <pubDate>Thu, 02 Nov 2017 17:11:57 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/tags/cgrates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>howto</title>
+      <link>https://linux.net.pk/tags/howto/</link>
+      <pubDate>Thu, 02 Nov 2017 17:11:57 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/tags/howto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mongo</title>
+      <link>https://linux.net.pk/tags/mongo/</link>
+      <pubDate>Thu, 02 Nov 2017 17:11:57 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/tags/mongo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dji</title>
+      <link>https://linux.net.pk/tags/dji/</link>
+      <pubDate>Thu, 31 Mar 2016 15:41:47 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/tags/dji/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dx7 g2</title>
+      <link>https://linux.net.pk/tags/dx7-g2/</link>
+      <pubDate>Thu, 31 Mar 2016 15:41:47 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/tags/dx7-g2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>f450</title>
+      <link>https://linux.net.pk/tags/f450/</link>
+      <pubDate>Thu, 31 Mar 2016 15:41:47 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/tags/f450/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>flamewheel</title>
+      <link>https://linux.net.pk/tags/flamewheel/</link>
+      <pubDate>Thu, 31 Mar 2016 15:41:47 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/tags/flamewheel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>naza</title>
+      <link>https://linux.net.pk/tags/naza/</link>
+      <pubDate>Thu, 31 Mar 2016 15:41:47 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/tags/naza/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>settings</title>
+      <link>https://linux.net.pk/tags/settings/</link>
+      <pubDate>Thu, 31 Mar 2016 15:41:47 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/tags/settings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spektrum</title>
+      <link>https://linux.net.pk/tags/spektrum/</link>
+      <pubDate>Thu, 31 Mar 2016 15:41:47 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/tags/spektrum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gps</title>
+      <link>https://linux.net.pk/tags/gps/</link>
+      <pubDate>Sun, 20 Mar 2016 03:41:19 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/tags/gps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>quadcopter</title>
+      <link>https://linux.net.pk/tags/quadcopter/</link>
+      <pubDate>Sun, 20 Mar 2016 03:41:19 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/tags/quadcopter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>asterisk</title>
+      <link>https://linux.net.pk/tags/asterisk/</link>
+      <pubDate>Fri, 12 Dec 2014 12:12:32 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/tags/asterisk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>freeswitch</title>
+      <link>https://linux.net.pk/tags/freeswitch/</link>
+      <pubDate>Fri, 12 Dec 2014 12:12:32 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/tags/freeswitch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ptcl</title>
+      <link>https://linux.net.pk/tags/ptcl/</link>
+      <pubDate>Fri, 12 Dec 2014 12:12:32 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/tags/ptcl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sip</title>
+      <link>https://linux.net.pk/tags/sip/</link>
+      <pubDate>Fri, 12 Dec 2014 12:12:32 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/tags/sip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>smartlink</title>
+      <link>https://linux.net.pk/tags/smartlink/</link>
+      <pubDate>Fri, 12 Dec 2014 12:12:32 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/tags/smartlink/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>voip</title>
+      <link>https://linux.net.pk/tags/voip/</link>
+      <pubDate>Fri, 12 Dec 2014 12:12:32 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/tags/voip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>apache</title>
+      <link>https://linux.net.pk/tags/apache/</link>
+      <pubDate>Sun, 30 Nov 2014 07:52:15 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/tags/apache/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>centos 7</title>
+      <link>https://linux.net.pk/tags/centos-7/</link>
+      <pubDate>Sun, 30 Nov 2014 07:52:15 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/tags/centos-7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>httpd</title>
+      <link>https://linux.net.pk/tags/httpd/</link>
+      <pubDate>Sun, 30 Nov 2014 07:52:15 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/tags/httpd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lamp</title>
+      <link>https://linux.net.pk/tags/lamp/</link>
+      <pubDate>Sun, 30 Nov 2014 07:52:15 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/tags/lamp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mysql</title>
+      <link>https://linux.net.pk/tags/mysql/</link>
+      <pubDate>Sun, 30 Nov 2014 07:52:15 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/tags/mysql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>php</title>
+      <link>https://linux.net.pk/tags/php/</link>
+      <pubDate>Sun, 30 Nov 2014 07:52:15 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/tags/php/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>configuration</title>
+      <link>https://linux.net.pk/tags/configuration/</link>
+      <pubDate>Thu, 27 Nov 2014 13:09:30 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/tags/configuration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pjsip</title>
+      <link>https://linux.net.pk/tags/pjsip/</link>
+      <pubDate>Thu, 27 Nov 2014 13:09:30 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/tags/pjsip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>https://linux.net.pk/tags/linux/</link>
+      <pubDate>Tue, 04 Nov 2014 19:00:26 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mikrotik</title>
+      <link>https://linux.net.pk/tags/mikrotik/</link>
+      <pubDate>Tue, 04 Nov 2014 19:00:26 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/tags/mikrotik/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>openvpn</title>
+      <link>https://linux.net.pk/tags/openvpn/</link>
+      <pubDate>Tue, 04 Nov 2014 19:00:26 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/tags/openvpn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>afghanistan</title>
+      <link>https://linux.net.pk/tags/afghanistan/</link>
+      <pubDate>Sat, 18 Oct 2008 17:57:49 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/tags/afghanistan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>travel</title>
+      <link>https://linux.net.pk/tags/travel/</link>
+      <pubDate>Sat, 18 Oct 2008 17:57:49 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/tags/travel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AAA</title>
+      <link>https://linux.net.pk/tags/aaa/</link>
+      <pubDate>Fri, 05 Sep 2008 00:29:17 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/tags/aaa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>charging</title>
+      <link>https://linux.net.pk/tags/charging/</link>
+      <pubDate>Fri, 05 Sep 2008 00:29:17 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/tags/charging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>diameter</title>
+      <link>https://linux.net.pk/tags/diameter/</link>
+      <pubDate>Fri, 05 Sep 2008 00:29:17 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/tags/diameter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>opendiameter</title>
+      <link>https://linux.net.pk/tags/opendiameter/</link>
+      <pubDate>Fri, 05 Sep 2008 00:29:17 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/tags/opendiameter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>e-vdo</title>
+      <link>https://linux.net.pk/tags/e-vdo/</link>
+      <pubDate>Fri, 22 Aug 2008 22:00:38 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/tags/e-vdo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>evodo</title>
+      <link>https://linux.net.pk/tags/evodo/</link>
+      <pubDate>Fri, 22 Aug 2008 22:00:38 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/tags/evodo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pakistan</title>
+      <link>https://linux.net.pk/tags/pakistan/</link>
+      <pubDate>Fri, 22 Aug 2008 22:00:38 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/tags/pakistan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>supertec</title>
+      <link>https://linux.net.pk/tags/supertec/</link>
+      <pubDate>Fri, 22 Aug 2008 22:00:38 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/tags/supertec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>worldcall</title>
+      <link>https://linux.net.pk/tags/worldcall/</link>
+      <pubDate>Fri, 22 Aug 2008 22:00:38 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/tags/worldcall/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cpe</title>
+      <link>https://linux.net.pk/tags/cpe/</link>
+      <pubDate>Mon, 18 Aug 2008 21:29:50 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/tags/cpe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>died</title>
+      <link>https://linux.net.pk/tags/died/</link>
+      <pubDate>Mon, 18 Aug 2008 21:29:50 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/tags/died/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>infinity</title>
+      <link>https://linux.net.pk/tags/infinity/</link>
+      <pubDate>Mon, 18 Aug 2008 21:29:50 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/tags/infinity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mobilink</title>
+      <link>https://linux.net.pk/tags/mobilink/</link>
+      <pubDate>Mon, 18 Aug 2008 21:29:50 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/tags/mobilink/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wimax</title>
+      <link>https://linux.net.pk/tags/wimax/</link>
+      <pubDate>Mon, 18 Aug 2008 21:29:50 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/tags/wimax/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>zyxel</title>
+      <link>https://linux.net.pk/tags/zyxel/</link>
+      <pubDate>Mon, 18 Aug 2008 21:29:50 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/tags/zyxel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wateen</title>
+      <link>https://linux.net.pk/tags/wateen/</link>
+      <pubDate>Sat, 16 Aug 2008 22:17:07 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/tags/wateen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iptv</title>
+      <link>https://linux.net.pk/tags/iptv/</link>
+      <pubDate>Wed, 06 Aug 2008 00:10:54 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/tags/iptv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>smart tv</title>
+      <link>https://linux.net.pk/tags/smart-tv/</link>
+      <pubDate>Wed, 06 Aug 2008 00:10:54 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/tags/smart-tv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>latency</title>
+      <link>https://linux.net.pk/tags/latency/</link>
+      <pubDate>Thu, 31 Jul 2008 13:43:12 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/tags/latency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mobilink wimax</title>
+      <link>https://linux.net.pk/tags/mobilink-wimax/</link>
+      <pubDate>Thu, 31 Jul 2008 13:43:12 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/tags/mobilink-wimax/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>review</title>
+      <link>https://linux.net.pk/tags/review/</link>
+      <pubDate>Thu, 31 Jul 2008 13:43:12 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/tags/review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bug</title>
+      <link>https://linux.net.pk/tags/bug/</link>
+      <pubDate>Sun, 27 Jul 2008 06:55:08 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/tags/bug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>register-proxy</title>
+      <link>https://linux.net.pk/tags/register-proxy/</link>
+      <pubDate>Sun, 27 Jul 2008 06:55:08 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/tags/register-proxy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>issue</title>
+      <link>https://linux.net.pk/tags/issue/</link>
+      <pubDate>Tue, 22 Jul 2008 10:53:15 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/tags/issue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mobilink voip</title>
+      <link>https://linux.net.pk/tags/mobilink-voip/</link>
+      <pubDate>Tue, 22 Jul 2008 10:53:15 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/tags/mobilink-voip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>oneway audio</title>
+      <link>https://linux.net.pk/tags/oneway-audio/</link>
+      <pubDate>Tue, 22 Jul 2008 10:53:15 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/tags/oneway-audio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>huawei</title>
+      <link>https://linux.net.pk/tags/huawei/</link>
+      <pubDate>Mon, 21 Jul 2008 20:23:47 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/tags/huawei/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>softx3000</title>
+      <link>https://linux.net.pk/tags/softx3000/</link>
+      <pubDate>Mon, 21 Jul 2008 20:23:47 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/tags/softx3000/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>proxy</title>
+      <link>https://linux.net.pk/tags/proxy/</link>
+      <pubDate>Sun, 20 Jul 2008 10:03:13 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/tags/proxy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>softphone</title>
+      <link>https://linux.net.pk/tags/softphone/</link>
+      <pubDate>Sun, 20 Jul 2008 10:03:13 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/tags/softphone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>xlite</title>
+      <link>https://linux.net.pk/tags/xlite/</link>
+      <pubDate>Sun, 20 Jul 2008 10:03:13 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/tags/xlite/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mobilink softphone</title>
+      <link>https://linux.net.pk/tags/mobilink-softphone/</link>
+      <pubDate>Sun, 20 Jul 2008 00:38:39 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/tags/mobilink-softphone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mobilink xlite</title>
+      <link>https://linux.net.pk/tags/mobilink-xlite/</link>
+      <pubDate>Sun, 20 Jul 2008 00:38:39 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/tags/mobilink-xlite/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

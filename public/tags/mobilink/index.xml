@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>mobilink on linux dot net dot pk</title>
+    <link>https://linux.net.pk/tags/mobilink/</link>
+    <description>Recent content in mobilink on linux dot net dot pk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 18 Aug 2008 21:29:50 +0000</lastBuildDate><atom:link href="https://linux.net.pk/tags/mobilink/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mobilink WiMax Woes</title>
+      <link>https://linux.net.pk/mobilink-wimax-woes/</link>
+      <pubDate>Mon, 18 Aug 2008 21:29:50 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/mobilink-wimax-woes/</guid>
+      <description>My Mobilink Wimax Zyxel CPE died tonight , somewhere around 10 , It first stopped camping and then just stopped broadcasting wifi signals as well , I tried ethernet , but of no use , the 4 port switch is the only thing that’s working. I don’t know what’s wrong with this equipment 🙁
+Have logded a complaint on 369 , let’s hope they can fix this issue.
+UPDATE: Turns out my indoor CPE was faulty.</description>
+    </item>
+    
+    <item>
+      <title>Mobilink Infinity :: Second Review</title>
+      <link>https://linux.net.pk/mobilink-infinity-second-review/</link>
+      <pubDate>Thu, 31 Jul 2008 13:43:12 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/mobilink-infinity-second-review/</guid>
+      <description>I’ve been using Mobilink Infinity Wimax service for the last 20 days or so , and wanted to share some numbers / graphs with users. I’ve been plotting it 24/7 by SNMP . The overall usage experience is okay now, the service works most of the times ( apart from the weird timeouts that i start getting sometimes ). The only thing we need from Mobilink Infinity team now , is to</description>
+    </item>
+    
+    <item>
+      <title>Mobilink Infinity :: Freeswitch :: One Way Audio</title>
+      <link>https://linux.net.pk/mobilink-infinity-freeswitch-one-way-audio/</link>
+      <pubDate>Tue, 22 Jul 2008 10:53:15 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/mobilink-infinity-freeswitch-one-way-audio/</guid>
+      <description>If you are facing one way audio issue with freeswitch for all outgoing calls via mobilink infinity trunk , all you need to do is to edit conf/vars.xml and set EXT_SIP_IP &amp;amp; EXT_RTP_IP to 192.168.100.1 . That’s it , your one way audio issue will be resolved 🙂 .</description>
+    </item>
+    
+    <item>
+      <title>Howto configure Mobilink Infinity VoIP on Freeswitch</title>
+      <link>https://linux.net.pk/howto-configure-mobilink-infinity-voip-on-freeswitch/</link>
+      <pubDate>Mon, 21 Jul 2008 20:23:47 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/howto-configure-mobilink-infinity-voip-on-freeswitch/</guid>
+      <description>You can configure your mobilink infinity VoIP number on Freeswitch aswell , Freeswitch is a very nice alternative to Asterisk with a SIP stack that actually works! BKW @ #freeswitch on irc.freenode.net helped me with this 🙂
+Here is the conf/sip_profiles/external/mobilink.xml settings
+_Here’s the dialplan entry conf/dialplan/extensions/000_myext.xml
+
+Oh by the way , for this, make sure the SIP ALG on your outdoor cpe is turned on , while the indoor one needs to be off 🙂</description>
+    </item>
+    
+    <item>
+      <title>Howto register your Mobilink Infinity VoIP number on Softphone</title>
+      <link>https://linux.net.pk/howto-register-your-mobilink-infinity-voip-number-on-softphone/</link>
+      <pubDate>Sun, 20 Jul 2008 00:38:39 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/howto-register-your-mobilink-infinity-voip-number-on-softphone/</guid>
+      <description>Here are the SIP settings , if you want to use your VoIP number from Mobilink Infinity on a softphone.
+You’ll have to first logon to your CPE admin interface , Browse to NAT -&amp;gt; ALG and Uncheck “SIP ALG” and click Apply. If you use an outdoor unit , do the same with the outdoor CPE as well.
+Fireup x-lite and configure it with the following settings.
+Server: 10.215.11.250</description>
+    </item>
+    
+  </channel>
+</rss>

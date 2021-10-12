@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>quadcopter on linux dot net dot pk</title>
+    <link>https://linux.net.pk/tags/quadcopter/</link>
+    <description>Recent content in quadcopter on linux dot net dot pk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 20 Mar 2016 03:41:19 +0000</lastBuildDate><atom:link href="https://linux.net.pk/tags/quadcopter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gain Settings for DJI Naza M v2</title>
+      <link>https://linux.net.pk/gain-settings-for-dji/</link>
+      <pubDate>Sun, 20 Mar 2016 03:41:19 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/gain-settings-for-dji/</guid>
+      <description>I have been building myself a quad copter , specifically a DJI F450 Flamewheel with DJI E305 propulsion system hooked to a DJI Naza M V2 with GPS. I have found the gain settings to be really tricky to play with , so this is a reference for anyone who wants to learn more about gains.
+Here’s a video of a guy from Netherlands explaining the gains in detail:
+ Below are the standard gain settings for Naza M v2 from DJI</description>
+    </item>
+    
+  </channel>
+</rss>

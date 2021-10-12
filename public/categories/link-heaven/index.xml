@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Link Heaven on linux dot net dot pk</title>
+    <link>https://linux.net.pk/categories/link-heaven/</link>
+    <description>Recent content in Link Heaven on linux dot net dot pk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 19 Oct 2014 13:16:14 +0000</lastBuildDate><atom:link href="https://linux.net.pk/categories/link-heaven/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ajenti Control Panel</title>
+      <link>https://linux.net.pk/ajenti-control-panel/</link>
+      <pubDate>Sun, 19 Oct 2014 13:16:14 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/ajenti-control-panel/</guid>
+      <description>Ajenti 1 Webserver control panel is an amazing server administration panel written in Python.
+ 1 http://ajenti.org/[</description>
+    </item>
+    
+    <item>
+      <title>Newyork Times :: Better Ways To Learn!</title>
+      <link>https://linux.net.pk/newyork-times-better-ways-to-learn/</link>
+      <pubDate>Tue, 07 Oct 2014 21:34:16 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/newyork-times-better-ways-to-learn/</guid>
+      <description>NY Times :: Better ways to learn!</description>
+    </item>
+    
+    <item>
+      <title>Mistakes of the programmers of current and previous generation!</title>
+      <link>https://linux.net.pk/mistakes-of-the-programmers-of-current-and-previous-generation/</link>
+      <pubDate>Tue, 07 Oct 2014 20:41:05 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/mistakes-of-the-programmers-of-current-and-previous-generation/</guid>
+      <description>A good video by Joe Armstrong , the inventor of Erlang! Link below
+The mess we are in !</description>
+    </item>
+    
+  </channel>
+</rss>

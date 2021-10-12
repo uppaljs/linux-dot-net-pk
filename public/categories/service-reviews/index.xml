@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Service Reviews on linux dot net dot pk</title>
+    <link>https://linux.net.pk/categories/service-reviews/</link>
+    <description>Recent content in Service Reviews on linux dot net dot pk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 22 Aug 2008 22:00:38 +0000</lastBuildDate><atom:link href="https://linux.net.pk/categories/service-reviews/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Worldcall E-VDO</title>
+      <link>https://linux.net.pk/worldcall-e-vdo/</link>
+      <pubDate>Fri, 22 Aug 2008 22:00:38 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/worldcall-e-vdo/</guid>
+      <description>Thanks to Rehan at Super Technologies , i got my hands on a demo worldcall e-vdo usb stick. Still in the process of setting it up, will post a unboxing video &amp;amp; detailed review soon!</description>
+    </item>
+    
+    <item>
+      <title>PTCL IPTV :: SmartTV</title>
+      <link>https://linux.net.pk/ptcl-iptv-smarttv/</link>
+      <pubDate>Wed, 06 Aug 2008 00:10:54 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/ptcl-iptv-smarttv/</guid>
+      <description>PTCL has moved to a soft launch phase for their iptv product , and are calling PTCL DSL subscribers and offering them free IPTV connections ( NO charges for the Set Top Box + Service ) until commercial launch, they are currently advertising 101 channels along with the ability to rewind Geo News , HBO , ESPN and a couple of other channels.
+I got a call yesterday and have subscribed for smartTV , let’s see how the installation goes.</description>
+    </item>
+    
+    <item>
+      <title>Mobilink Infinity :: Second Review</title>
+      <link>https://linux.net.pk/mobilink-infinity-second-review/</link>
+      <pubDate>Thu, 31 Jul 2008 13:43:12 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/mobilink-infinity-second-review/</guid>
+      <description>I’ve been using Mobilink Infinity Wimax service for the last 20 days or so , and wanted to share some numbers / graphs with users. I’ve been plotting it 24/7 by SNMP . The overall usage experience is okay now, the service works most of the times ( apart from the weird timeouts that i start getting sometimes ). The only thing we need from Mobilink Infinity team now , is to</description>
+    </item>
+    
+  </channel>
+</rss>

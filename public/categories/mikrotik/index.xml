@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>mikrotik on linux dot net dot pk</title>
+    <link>https://linux.net.pk/categories/mikrotik/</link>
+    <description>Recent content in mikrotik on linux dot net dot pk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 05 Nov 2014 01:37:30 +0000</lastBuildDate><atom:link href="https://linux.net.pk/categories/mikrotik/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mikrotik :: Winbox for OS X</title>
+      <link>https://linux.net.pk/mikrotik-winbox-os-x/</link>
+      <pubDate>Wed, 05 Nov 2014 01:37:30 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/mikrotik-winbox-os-x/</guid>
+      <description>One word – Mikrotik’s Amazing!
+The only problem is that they don’t have administration utility for OS X – Which causes nuisance when you only have a MAC at hand for setting up the router / switch.
+I built a Winbox app using Wine Bottler for OS X which doesn’t use the dedicated graphic card and saves batter life. If anyone needs a copy – ping me and I’ll upload it!</description>
+    </item>
+    
+    <item>
+      <title>OpenVPN Configuration</title>
+      <link>https://linux.net.pk/openvpn-configuration/</link>
+      <pubDate>Tue, 04 Nov 2014 19:00:26 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/openvpn-configuration/</guid>
+      <description>Below is the configuration i use for OpenVPN server , It supports user / password authentication,TCP mode and disables TLS which is not supported by Mikrotik ( atleast for now )</description>
+    </item>
+    
+    <item>
+      <title>Mikrotik OpenVPN Client Config</title>
+      <link>https://linux.net.pk/mikrotik-openvpn-client-config/</link>
+      <pubDate>Tue, 04 Nov 2014 12:24:12 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/mikrotik-openvpn-client-config/</guid>
+      <description>Following up on my previous post , Below is the configuration for setting up an OPENVPN Client on Mikrotik Router
+After this goto IP &amp;gt; Firewall &amp;gt; NAT and add a SRC nat rule to masqurade all traffic going towards the VPN
+oh and make sure you have a static route added for your VPN server IP address towards your primary gateway.
+and that should be it!</description>
+    </item>
+    
+    <item>
+      <title>Routing Traffic to VPN on Mikrotik</title>
+      <link>https://linux.net.pk/routing-traffic-vpn-mikrotik/</link>
+      <pubDate>Mon, 03 Nov 2014 23:30:36 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/routing-traffic-vpn-mikrotik/</guid>
+      <description>I am addicted to spotify and netflix and since I am based out of middle east and use a lot of devices ( hand helds , laptops , media streaming boxes etc. ) , the only solution was to implement routing to my VPN service on the gateway which in my case is a mikrotik RB2011UAS-iNHD.
+I also didn’t want to route all of my traffic to the VPN since it slows down the internet considerably due to latency / headers etc .</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on linux dot net dot pk</title>
+    <link>https://linux.net.pk/posts/</link>
+    <description>Recent content in Posts on linux dot net dot pk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 05 Jun 2018 12:56:52 +0000</lastBuildDate><atom:link href="https://linux.net.pk/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unregistration from Redhat Satellite or Spacewalk Server</title>
+      <link>https://linux.net.pk/unregistration-from-redhat-satellite-or-spacewalk-server/</link>
+      <pubDate>Tue, 05 Jun 2018 12:56:52 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/unregistration-from-redhat-satellite-or-spacewalk-server/</guid>
+      <description>Ideally use
+1  # subscription-manager unregister   Otherwise:
+1  # rm /etc/sysconfig/rhn/systemid   should do the trick.</description>
+    </item>
+    
+    <item>
+      <title>CGRateS Tutorial Series- Installation – Mongo DB Server Install – Debian 8 – Part 1</title>
+      <link>https://linux.net.pk/cgrates-installation-mongo-db-server-install-debian-8/</link>
+      <pubDate>Thu, 02 Nov 2017 17:11:57 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/cgrates-installation-mongo-db-server-install-debian-8/</guid>
+      <description>Below are the steps to prepare a stand alone mongodb server for cgrates on Debian 8 jessie
+Install sudo
+1  # apt-get install sudo   Import key
+1  # apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv 0C49F3730359A14518585931BC711F9BA15703C6   Add repository URL
+1  # echo &amp;#34;deb http://repo.mongodb.org/apt/debian jessie/mongodb-org/3.4 main&amp;#34; | sudo tee /etc/apt/sources.list.d/mongodb-org-3.4.list   Update and Install
+1 2 3  # apt-get update # apt-get install -y mongodb-org   Enable and Start</description>
+    </item>
+    
+    <item>
+      <title>Spektrum DX7 G2 DJI Naza M GPS Settings</title>
+      <link>https://linux.net.pk/spektrum-dx7-g2-dji-naza-m-gps-settings/</link>
+      <pubDate>Thu, 31 Mar 2016 15:41:47 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/spektrum-dx7-g2-dji-naza-m-gps-settings/</guid>
+      <description>Spent some time setting up my DX7 G2 with Naza M V2 with GPS – Couldn’t find the DX7 G2 settings , so I posted these here for future reference.</description>
+    </item>
+    
+    <item>
+      <title>Gain Settings for DJI Naza M v2</title>
+      <link>https://linux.net.pk/gain-settings-for-dji/</link>
+      <pubDate>Sun, 20 Mar 2016 03:41:19 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/gain-settings-for-dji/</guid>
+      <description>I have been building myself a quad copter , specifically a DJI F450 Flamewheel with DJI E305 propulsion system hooked to a DJI Naza M V2 with GPS. I have found the gain settings to be really tricky to play with , so this is a reference for anyone who wants to learn more about gains.
+Here’s a video of a guy from Netherlands explaining the gains in detail:
+ Below are the standard gain settings for Naza M v2 from DJI</description>
+    </item>
+    
+    <item>
+      <title>Remove /home partition on CentOS 6</title>
+      <link>https://linux.net.pk/remove-home-partition-on-centos-6/</link>
+      <pubDate>Fri, 01 May 2015 08:50:18 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/remove-home-partition-on-centos-6/</guid>
+      <description>Centos by default creates a separate LVM with /home , which is un-necessary in certain installs , to remove it, follow the procedure
+To check the current status:
+Executing the changes:
+Checking size again:
+Modifying /etc/fstab to remove the mount point for /home</description>
+    </item>
+    
+    <item>
+      <title>CentOS 7 Wifi :: Intel 6205</title>
+      <link>https://linux.net.pk/centos-7-wifi-intel-6205/</link>
+      <pubDate>Sun, 19 Apr 2015 01:26:57 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/centos-7-wifi-intel-6205/</guid>
+      <description>Out of the box , everything should work except Wifi.
+nmtui should be used for setting up the connection.
+Cheers!</description>
+    </item>
+    
+    <item>
+      <title>Poor Man’s GSM BTS :: Nuand’s BladeRF &amp; OpenBTS 5 Setup Instructions</title>
+      <link>https://linux.net.pk/poor-mans-gsm-bts-nuands-bladerf-openbts-5-setup-instructions/</link>
+      <pubDate>Fri, 16 Jan 2015 15:05:54 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/poor-mans-gsm-bts-nuands-bladerf-openbts-5-setup-instructions/</guid>
+      <description>!!!! THIS IS FOR EDUCATIONAL PURPOSES ONLY !!!!
+These instructions are for setting up and running OpenBTS with Nuand’s BladeRF x40 Board , These are a work in progress and should be taken as is. This was possible with the help of @mambrus on #bladerf and @rwr on #bladerf.1 and is a collection of different how-tos linked at the end of the post.
+OS Used : Ubuntu 12.04 LTS Server 32 bit , The ISO can be downloaded from here</description>
+    </item>
+    
+    <item>
+      <title>2014 In Review</title>
+      <link>https://linux.net.pk/2014-review/</link>
+      <pubDate>Thu, 01 Jan 2015 14:43:37 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/2014-review/</guid>
+      <description>Unlike last year , I am not particularly enthusiastic about 2015 , Part of this has to do with the way things are at the moment. If I were , I would have a hard time cheering people up.
+Professionally, Telecom business is not expanding finally and is more focused on consolidating and cost reductions , with unexpected twists and turns that one has to navigate through.
+I left my job in 2014 partly due to the extreme stress , which was driving me nuts and was hurting me both physically and mentally , and partly because I wanted to give starting and running my own shop, a try.</description>
+    </item>
+    
+    <item>
+      <title>Burn a bootable iso to USB Disk on OSX</title>
+      <link>https://linux.net.pk/burn-bootable-iso-usb-disk-osx/</link>
+      <pubDate>Sat, 20 Dec 2014 14:38:52 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/burn-bootable-iso-usb-disk-osx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cleaning up YUM Fastmirrors Cache</title>
+      <link>https://linux.net.pk/cleaning-yum-fastmirrors-cache/</link>
+      <pubDate>Sat, 20 Dec 2014 13:34:06 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/cleaning-yum-fastmirrors-cache/</guid>
+      <description>Quick one for my own reference</description>
+    </item>
+    
+    <item>
+      <title>Configure Your PTCL SmartLink SIP Account On Freeswitch</title>
+      <link>https://linux.net.pk/freeswitch-configuration-ptcl/</link>
+      <pubDate>Fri, 12 Dec 2014 12:12:32 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/freeswitch-configuration-ptcl/</guid>
+      <description>Following up on my previous post on how to configure your PTCL Smart Link SIP account on asterisk, below is the configuration I used for PTCL – Just replace USERNAME and PASSWORD with your credentials.
+You will also need to change your user agent , This can be done by adding the below parameter in sip_profiles/external.xml</description>
+    </item>
+    
+    <item>
+      <title>Amazing A380 Traffic</title>
+      <link>https://linux.net.pk/amazing-a380-traffic/</link>
+      <pubDate>Sat, 06 Dec 2014 11:17:08 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/amazing-a380-traffic/</guid>
+      <description>While logging ADSB traffic around my area [ ~ 150 NM+ Coverage ] – I recorded 13 unique A380 registrations in less than 24 hours. Below is a log for reference.
+&amp;lt;td style=&amp;quot;text-align: center;&amp;quot; width=&amp;quot;141&amp;quot;&amp;gt; Airline &amp;lt;/td&amp;gt; &amp;lt;td style=&amp;quot;text-align: center;&amp;quot; width=&amp;quot;129&amp;quot;&amp;gt; Date &amp;lt;/td&amp;gt; &amp;lt;td style=&amp;quot;text-align: center;&amp;quot; width=&amp;quot;65&amp;quot;&amp;gt; Squawk &amp;lt;/td&amp;gt; &amp;lt;td style=&amp;quot;text-align: center;&amp;quot; width=&amp;quot;83&amp;quot;&amp;gt; Type of Aircraft &amp;lt;/td&amp;gt;  &amp;lt;td&amp;gt; Singapore Airlines &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; 2014-12-05 17:14:34 &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; 7622 &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; A388 &amp;lt;/td&amp;gt;  &amp;lt;td&amp;gt; Singapore Airlines &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; 2014-12-05 17:31:45 &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; 627 &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; A388 &amp;lt;/td&amp;gt;  &amp;lt;td&amp;gt; Singapore Airlines &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; 2014-12-05 18:33:29 &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; 3423 &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; A388 &amp;lt;/td&amp;gt;  &amp;lt;td&amp;gt; Thai Airways International &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; 2014-12-05 19:31:16 &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; 7612 &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; A388 &amp;lt;/td&amp;gt;  &amp;lt;td&amp;gt; Thai Airways International &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; 2014-12-05 19:39:49 &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; 2503 &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; A388 &amp;lt;/td&amp;gt;  &amp;lt;td&amp;gt; Lufthansa &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; 2014-12-05 19:43:52 &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; 4626 &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; A388 &amp;lt;/td&amp;gt;  &amp;lt;td&amp;gt; Thai Airways International &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; 2014-12-05 21:17:46 &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; 6173 &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; A388 &amp;lt;/td&amp;gt;  &amp;lt;td&amp;gt; Thai Airways International &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; 2014-12-05 21:55:02 &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; 404 &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; A388 &amp;lt;/td&amp;gt;  &amp;lt;td&amp;gt; Singapore Airlines &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; 2014-12-05 22:10:25 &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; 2211 &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; A388 &amp;lt;/td&amp;gt;  &amp;lt;td&amp;gt; Singapore Airlines &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; 2014-12-05 23:12:07 &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; 2203 &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; A388 &amp;lt;/td&amp;gt;  &amp;lt;td&amp;gt; Lufthansa &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; 2014-12-05 23:40:48 &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; 567 &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; A388 &amp;lt;/td&amp;gt;  &amp;lt;td&amp;gt; Lufthansa &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; 2014-12-06 03:34:36 &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; 4614 &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; A388 &amp;lt;/td&amp;gt;  &amp;lt;td&amp;gt; Singapore Airlines &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; 2014-12-06 05:23:46 &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; 2046 &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; A388 &amp;lt;/td&amp;gt;  </description>
+    </item>
+    
+    <item>
+      <title>Howto :: LAMP Stack on Centos 7</title>
+      <link>https://linux.net.pk/howto-lamp-stack-centos-7/</link>
+      <pubDate>Sun, 30 Nov 2014 07:52:15 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/howto-lamp-stack-centos-7/</guid>
+      <description>Quick and Dirty install below!
+Install HTTPD
+Start and Enable Boot-Startup of httpd
+Install &amp;amp; Start / Boot-Start MariaDB ( A drop-in mysql replacement )
+Secure Your MySQL Installation
+Add PHP &amp;amp; Mysql Support – Restart HTTPD
+Optional Package Install – You can add PHP Extensions by using the ‘yum search’ command to find and ‘yum install’ to install.
+Finally , Open up ports on FirewallD
+Optional – mcrypt and imagemagick support</description>
+    </item>
+    
+    <item>
+      <title>Service Management Cheat Sheet :: CentOS 6 &amp; 7</title>
+      <link>https://linux.net.pk/service-management-cheat-sheet-centos-6-7/</link>
+      <pubDate>Sun, 30 Nov 2014 06:54:15 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/service-management-cheat-sheet-centos-6-7/</guid>
+      <description>Below is a conversion document for Centos 6 to 7 Service Management!
+&amp;lt;th&amp;gt; systemctl &amp;lt;/th&amp;gt; &amp;lt;th&amp;gt; Description &amp;lt;/th&amp;gt;  &amp;lt;td&amp;gt; &amp;lt;div class=&amp;quot;para&amp;quot;&amp;gt; &amp;lt;code class=&amp;quot;command&amp;quot;&amp;gt;systemctl start &amp;amp;lt;em class=&amp;quot;replaceable&amp;quot;&amp;gt;name&amp;amp;lt;/em&amp;gt;.service&amp;lt;/code&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; Starts a service. &amp;lt;/td&amp;gt;  &amp;lt;td&amp;gt; &amp;lt;div class=&amp;quot;para&amp;quot;&amp;gt; &amp;lt;code class=&amp;quot;command&amp;quot;&amp;gt;systemctl stop &amp;amp;lt;em class=&amp;quot;replaceable&amp;quot;&amp;gt;name&amp;amp;lt;/em&amp;gt;.service&amp;lt;/code&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; Stops a service. &amp;lt;/td&amp;gt;  &amp;lt;td&amp;gt; &amp;lt;div class=&amp;quot;para&amp;quot;&amp;gt; &amp;lt;code class=&amp;quot;command&amp;quot;&amp;gt;systemctl restart &amp;amp;lt;em class=&amp;quot;replaceable&amp;quot;&amp;gt;name&amp;amp;lt;/em&amp;gt;.service&amp;lt;/code&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; Restarts a service. &amp;lt;/td&amp;gt;  &amp;lt;td&amp;gt; &amp;lt;div class=&amp;quot;para&amp;quot;&amp;gt; &amp;lt;code class=&amp;quot;command&amp;quot;&amp;gt;systemctl try-restart &amp;amp;lt;em class=&amp;quot;replaceable&amp;quot;&amp;gt;name&amp;amp;lt;/em&amp;gt;.</description>
+    </item>
+    
+    <item>
+      <title>Asterisk Config for PTCL SmartLink App</title>
+      <link>https://linux.net.pk/asterisk-config-ptcl-smartlink-app/</link>
+      <pubDate>Thu, 27 Nov 2014 13:09:30 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/asterisk-config-ptcl-smartlink-app/</guid>
+      <description>PTCL has recently launched an app called “SmartLink” , Which provides you access to your phone line over SIP , essentially providing landline access from anywhere.
+Since the land-line I have is only used for DSL and SmartTV, I wanted to set it up on SIP , so I can access it from any device.
+PTCL uses Huawei SoftX 3000 Soft Switches for this service , I have had experience on these switches from my previous jobs and I know that it requires PRACK support to start off , In addition , while configuring , I noticed that the user_agent also needs to be set to a certain value for the registration to be successful.</description>
+    </item>
+    
+    <item>
+      <title>Enable FaceTime on Your Middle-eastern iPhone/iPad</title>
+      <link>https://linux.net.pk/enable-facetime-middle-eastern-iphoneipad/</link>
+      <pubDate>Mon, 10 Nov 2014 18:45:13 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/enable-facetime-middle-eastern-iphoneipad/</guid>
+      <description>I was stuck with an iPhone purchased in the middle-east where Apple blocks FaceTime – Turns out that its just a matter of Carrier Bundles – Apple , from iOS 7 , started signing the carrier bundles , so they couldn’t be modified by end-customers , any modification would result in change of the signature with the modification over-written on reboot with a standard bundle. A developer team from china enabled modifications by releasing a com-center patch that allows an over-ride for the signature check.</description>
+    </item>
+    
+    <item>
+      <title>Ham Radio &amp; Hamsphere</title>
+      <link>https://linux.net.pk/ham-radio-hamsphere/</link>
+      <pubDate>Fri, 07 Nov 2014 22:07:17 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/ham-radio-hamsphere/</guid>
+      <description>Since I have some time on my hands these days and I am playing mostly with SDR ( Software Defined Radio ) – I decided to read up on Ham Radio as well – Picked up the For Dummies guide and can’t put it down!
+I searched around for something to start off, to practice while I am studying for my license and found Hamsphere (http://hamsphere.net) – It’s a wonderful piece of software which emulates the radio waves virtually and I have fallen in love with it – My call sign is 48HS1452 !</description>
+    </item>
+    
+    <item>
+      <title>Open VPN Installation on Centos 6.5</title>
+      <link>https://linux.net.pk/open-vpn-installation-centos-6/</link>
+      <pubDate>Wed, 05 Nov 2014 18:17:00 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/open-vpn-installation-centos-6/</guid>
+      <description>In a rush , so will jot down the steps only. You’ll need epel repo
+On CentOS 6 , that will be
+Once that is done ,
+ yum install openvpn easy-rsa mkdir -p /etc/openvpn/easy-rsa/keys cp -rf /usr/share/easy-rsa/2.0/* /etc/openvpn/easy-rsa/ vi /etc/openvpn/easy-rsa/vars  Modify these parameters to suit your need
+cd /etc/openvpn/easy-rsa/ cp openssl-1.0.0.cnf openssl.cnf source ./vars ./clean-all ./build-ca   ./build-key-server server
+  ./build-key client ( if you want to use RSA Keys for Connectivity )</description>
+    </item>
+    
+    <item>
+      <title>Mikrotik :: Winbox for OS X</title>
+      <link>https://linux.net.pk/mikrotik-winbox-os-x/</link>
+      <pubDate>Wed, 05 Nov 2014 01:37:30 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/mikrotik-winbox-os-x/</guid>
+      <description>One word – Mikrotik’s Amazing!
+The only problem is that they don’t have administration utility for OS X – Which causes nuisance when you only have a MAC at hand for setting up the router / switch.
+I built a Winbox app using Wine Bottler for OS X which doesn’t use the dedicated graphic card and saves batter life. If anyone needs a copy – ping me and I’ll upload it!</description>
+    </item>
+    
+    <item>
+      <title>OpenVPN Configuration</title>
+      <link>https://linux.net.pk/openvpn-configuration/</link>
+      <pubDate>Tue, 04 Nov 2014 19:00:26 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/openvpn-configuration/</guid>
+      <description>Below is the configuration i use for OpenVPN server , It supports user / password authentication,TCP mode and disables TLS which is not supported by Mikrotik ( atleast for now )</description>
+    </item>
+    
+    <item>
+      <title>Mikrotik OpenVPN Client Config</title>
+      <link>https://linux.net.pk/mikrotik-openvpn-client-config/</link>
+      <pubDate>Tue, 04 Nov 2014 12:24:12 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/mikrotik-openvpn-client-config/</guid>
+      <description>Following up on my previous post , Below is the configuration for setting up an OPENVPN Client on Mikrotik Router
+After this goto IP &amp;gt; Firewall &amp;gt; NAT and add a SRC nat rule to masqurade all traffic going towards the VPN
+oh and make sure you have a static route added for your VPN server IP address towards your primary gateway.
+and that should be it!</description>
+    </item>
+    
+    <item>
+      <title>Routing Traffic to VPN on Mikrotik</title>
+      <link>https://linux.net.pk/routing-traffic-vpn-mikrotik/</link>
+      <pubDate>Mon, 03 Nov 2014 23:30:36 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/routing-traffic-vpn-mikrotik/</guid>
+      <description>I am addicted to spotify and netflix and since I am based out of middle east and use a lot of devices ( hand helds , laptops , media streaming boxes etc. ) , the only solution was to implement routing to my VPN service on the gateway which in my case is a mikrotik RB2011UAS-iNHD.
+I also didn’t want to route all of my traffic to the VPN since it slows down the internet considerably due to latency / headers etc .</description>
+    </item>
+    
+    <item>
+      <title>Ajenti Control Panel</title>
+      <link>https://linux.net.pk/ajenti-control-panel/</link>
+      <pubDate>Sun, 19 Oct 2014 13:16:14 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/ajenti-control-panel/</guid>
+      <description>Ajenti 1 Webserver control panel is an amazing server administration panel written in Python.
+ 1 http://ajenti.org/[</description>
+    </item>
+    
+    <item>
+      <title>Raspberry Pi :: Torrent Box</title>
+      <link>https://linux.net.pk/raspberry-pi-torrent-box/</link>
+      <pubDate>Thu, 09 Oct 2014 22:13:09 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/raspberry-pi-torrent-box/</guid>
+      <description>Excellent resource to setting up deluge on raspberry pi for an always-on cheap seedbox!</description>
+    </item>
+    
+    <item>
+      <title>Belated Eid Mubarak</title>
+      <link>https://linux.net.pk/belated-eid-mubarak/</link>
+      <pubDate>Wed, 08 Oct 2014 04:24:59 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/belated-eid-mubarak/</guid>
+      <description>Just reached Riyadh this morning , apart from the random issues with the SPEEDX guy forgetting to ship my car keys to Karachi , the flight was un-eventful , Customs &amp;amp; Immigration was a breeze , The new immigration counters at Riyadh Airport are nice and the agent we went to , was extremely friendly and let us through in 10 minutes.
+Oh , and this is how I feel after all the meat!</description>
+    </item>
+    
+    <item>
+      <title>Newyork Times :: Better Ways To Learn!</title>
+      <link>https://linux.net.pk/newyork-times-better-ways-to-learn/</link>
+      <pubDate>Tue, 07 Oct 2014 21:34:16 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/newyork-times-better-ways-to-learn/</guid>
+      <description>NY Times :: Better ways to learn!</description>
+    </item>
+    
+    <item>
+      <title>Mistakes of the programmers of current and previous generation!</title>
+      <link>https://linux.net.pk/mistakes-of-the-programmers-of-current-and-previous-generation/</link>
+      <pubDate>Tue, 07 Oct 2014 20:41:05 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/mistakes-of-the-programmers-of-current-and-previous-generation/</guid>
+      <description>A good video by Joe Armstrong , the inventor of Erlang! Link below
+The mess we are in !</description>
+    </item>
+    
+    <item>
+      <title>Top 30 NMAP Command Examples</title>
+      <link>https://linux.net.pk/top-30-nmap-commands/</link>
+      <pubDate>Tue, 07 Oct 2014 10:36:48 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/top-30-nmap-commands/</guid>
+      <description>For future reference [1] is an amazing collection of nmap parameters.
+ [1] http://www.cyberciti.biz/networking/nmap-command-examples-tutorials/</description>
+    </item>
+    
+    <item>
+      <title>New Airport @ Multan</title>
+      <link>https://linux.net.pk/new-airport-multan/</link>
+      <pubDate>Tue, 07 Oct 2014 05:43:25 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/new-airport-multan/</guid>
+      <description>I’ve been really looking forward to the opening of the new airport @ Multan , Pakistan. Saw it today on a flight to Karachi. Read it on 2 the other day that the project is supposed to go-live in December , as quoted by Director CAA. A few pictures of the current status of the project are attached.
+Cheers</description>
+    </item>
+    
+    <item>
+      <title>TVHeadend</title>
+      <link>https://linux.net.pk/tvheadend/</link>
+      <pubDate>Tue, 30 Sep 2014 13:53:34 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/tvheadend/</guid>
+      <description>I have recently moved back to Pakistan and was pretty pissed off when I used the PTCL Smart TV STB – looked around for a solution and found a wonderful project called “TVHeadend[1]” – which not only takes IPTV multicast streams and converts them to HTTP Unicast but also does the same process for DVB-S , T &amp;amp; SAT/ SATIP.
+Expect some interesting articles about TVHeadend soon!
+Cheers
+ [1]http://tvheadend.org</description>
+    </item>
+    
+    <item>
+      <title>rm -rf ‘this_blog’</title>
+      <link>https://linux.net.pk/rm-rf-this_blog/</link>
+      <pubDate>Tue, 30 Sep 2014 13:49:32 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/rm-rf-this_blog/</guid>
+      <description>Crap – I did it again – and this time to the backup as well! Will definitely try fixing / finding old posts. In the meanwhile , I’ll try and update this blog daily.
+ </description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>https://linux.net.pk/people/</link>
+      <pubDate>Wed, 08 Sep 2010 18:53:10 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ServiceXpress Framework :: ChrisXpress Browserless Solution</title>
+      <link>https://linux.net.pk/servicexpress-framework-chrisxpress-browserless-solution/</link>
+      <pubDate>Thu, 19 Aug 2010 16:19:33 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/servicexpress-framework-chrisxpress-browserless-solution/</guid>
+      <description>Hi,
+Had a nightmare of a task yesterday to configure SX for faster access over VPN. The only solution was to do it browser less , anyone who knows and / or has used ChrissXpress will agree , that its extremely slow and tightly bound around Java 1.3.1 .
+The solution was to download all of the jar files from the framework and copy them over to JAVA_HOME/lib and create a small script to launch it by clicking.</description>
+    </item>
+    
+    <item>
+      <title>Cisco ASA VPN Woes!</title>
+      <link>https://linux.net.pk/cisco-asa-vpn-woes/</link>
+      <pubDate>Tue, 17 Aug 2010 21:19:00 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/cisco-asa-vpn-woes/</guid>
+      <description>This is to document the config for outside access to VPN , incase i forget again!
+ access-list outside_nat extended permit ip [vpn client network] 255.255.255.0 any
+global (outside) 1 interface
+nat (outside) 1 access-list outside_nat
+group-policy DfltGrpPolicy attributes
+dns-server value [dns server]
+nem enable
+group-policy VPN attributes
+split-tunnel-policy tunnelall
+split-tunnel-network-list none
+ </description>
+    </item>
+    
+    <item>
+      <title>Mobicents</title>
+      <link>https://linux.net.pk/mobicents/</link>
+      <pubDate>Tue, 17 Aug 2010 12:10:46 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/mobicents/</guid>
+      <description>Just found out this gem of a software @ mobicents.org , will start the deployment today , and will record my adventures on this blog 🙂</description>
+    </item>
+    
+    <item>
+      <title>Mbuni – MM7 :: Interconnectivity with Operator</title>
+      <link>https://linux.net.pk/mbuni-mm7-interconnectivity-with-operator/</link>
+      <pubDate>Sun, 15 Aug 2010 19:38:28 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/mbuni-mm7-interconnectivity-with-operator/</guid>
+      <description>Was playing around with Mbuni for a friend of mine , who wanted to use it as a VASP gateway and interconnect it with an operator over MM7. Spent a little while configuring it and thought of posting the configs here for anyone who’s trying to achieve a similar configuration.
+Mbuni consits of
+ MMS Relay MMS Proxy MMS From Email MMSbox  For this sepecific purpose , only MMSBOX is required.</description>
+    </item>
+    
+    <item>
+      <title>2 Years :-)</title>
+      <link>https://linux.net.pk/2-years/</link>
+      <pubDate>Sun, 13 Jun 2010 18:43:21 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/2-years/</guid>
+      <description>Next Month it will be my blog’s [ or attempt at a blog’s] 2nd birthday 😉 – YAAY!
+I just realized that i posted the last post after 1.5 Years 🙂 Everything has been a roller coaster ride since i moved to Afghanistan to work full time at a mobile operator 🙂 Just couldn’t get enough time to update the blog , but i promise to keep posting off and on now 🙂</description>
+    </item>
+    
+    <item>
+      <title>Playing Around with Infobright</title>
+      <link>https://linux.net.pk/playing-around-with-infobright/</link>
+      <pubDate>Sun, 13 Jun 2010 18:37:36 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/playing-around-with-infobright/</guid>
+      <description>Hi,
+I wanted a way to quickly pick , loadup and analyze tickets from our IN platform, ( we’re talking about 1.3 Mil + rows for one file in peak hours ) Waseem [ http://convergence.pk ] , was kind enough to spare some time for the setup and we ended up with infobright [ http://infobright.com ] community edition.
+Infobright’s based on MySQL and uses knowledge base + vertical coloums , which end up making queries run ridiculously fast.</description>
+    </item>
+    
+    <item>
+      <title>Afghanistan – Here I come!</title>
+      <link>https://linux.net.pk/afghanistan-here-i-come/</link>
+      <pubDate>Sat, 18 Oct 2008 17:57:49 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/afghanistan-here-i-come/</guid>
+      <description>Been really busy lately , so couldn’t update the blog much , well , I am finally leaving for Afghanistan tonight. Looking forward to the change in envoirnment. I’ll be working in Afghanistan Wireless as an Intelligent Network Engineer, will try my best to keep this blog updated.
+ Looking forward to a roller coaster ride inshAllah!</description>
+    </item>
+    
+    <item>
+      <title>Opendiameter Compilation Instructions</title>
+      <link>https://linux.net.pk/opendiameter-compilation-instructions/</link>
+      <pubDate>Fri, 05 Sep 2008 00:29:17 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/opendiameter-compilation-instructions/</guid>
+      <description>For FC8
+  Make sure gcc , gcc-c++ , bison , flex , make , openssl and openssl-devel are present
+  yum -y install boost-devel
+  export BOOST_ROOT=/usr/include/
+  Get ACE Here .
+  tar xvf ACE-5.5.tar.gz
+  cd ACE_wrappers
+  mkdir build
+  cd build
+  Patch the configure file
+  — configure.orig 2008-08-05 11:11:19.000000000 -0800
++++ configure 2008-08-05 11:13:30.</description>
+    </item>
+    
+    <item>
+      <title>It’s Over!</title>
+      <link>https://linux.net.pk/its-over/</link>
+      <pubDate>Sat, 23 Aug 2008 15:49:39 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/its-over/</guid>
+      <description>23rd Aug, 2008.</description>
+    </item>
+    
+    <item>
+      <title>Worldcall E-VDO</title>
+      <link>https://linux.net.pk/worldcall-e-vdo/</link>
+      <pubDate>Fri, 22 Aug 2008 22:00:38 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/worldcall-e-vdo/</guid>
+      <description>Thanks to Rehan at Super Technologies , i got my hands on a demo worldcall e-vdo usb stick. Still in the process of setting it up, will post a unboxing video &amp;amp; detailed review soon!</description>
+    </item>
+    
+    <item>
+      <title>Say what you need to say… I can’t! Can you?</title>
+      <link>https://linux.net.pk/say-what-you-need-to-say-i-cant-can-you/</link>
+      <pubDate>Wed, 20 Aug 2008 08:13:18 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/say-what-you-need-to-say-i-cant-can-you/</guid>
+      <description>Even if your hands are shakingAnd your faith is brokenEven as the eyes are closingDo it with a heart wide openSay what you need to say …(John Mayer – Say)</description>
+    </item>
+    
+    <item>
+      <title>Mobilink WiMax Woes</title>
+      <link>https://linux.net.pk/mobilink-wimax-woes/</link>
+      <pubDate>Mon, 18 Aug 2008 21:29:50 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/mobilink-wimax-woes/</guid>
+      <description>My Mobilink Wimax Zyxel CPE died tonight , somewhere around 10 , It first stopped camping and then just stopped broadcasting wifi signals as well , I tried ethernet , but of no use , the 4 port switch is the only thing that’s working. I don’t know what’s wrong with this equipment 🙁
+Have logded a complaint on 369 , let’s hope they can fix this issue.
+UPDATE: Turns out my indoor CPE was faulty.</description>
+    </item>
+    
+    <item>
+      <title>Freeswitch :: Wateen Update</title>
+      <link>https://linux.net.pk/freeswitch-wateen-update/</link>
+      <pubDate>Sat, 16 Aug 2008 22:17:07 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/freeswitch-wateen-update/</guid>
+      <description>Just a quick update , anthm @ freeswitch.org has fixed the bug in freeswitch that was preventing the switch to register with Wateen’s gateway. So , go , grab the latest freeswitch code from svn and compile. Here are the settings for your sip_profile
+_🙂 Have fun! and drop a comment if this post was helpful.</description>
+    </item>
+    
+    <item>
+      <title>PTCL IPTV :: SmartTV</title>
+      <link>https://linux.net.pk/ptcl-iptv-smarttv/</link>
+      <pubDate>Wed, 06 Aug 2008 00:10:54 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/ptcl-iptv-smarttv/</guid>
+      <description>PTCL has moved to a soft launch phase for their iptv product , and are calling PTCL DSL subscribers and offering them free IPTV connections ( NO charges for the Set Top Box + Service ) until commercial launch, they are currently advertising 101 channels along with the ability to rewind Geo News , HBO , ESPN and a couple of other channels.
+I got a call yesterday and have subscribed for smartTV , let’s see how the installation goes.</description>
+    </item>
+    
+    <item>
+      <title>Mobilink Infinity :: Second Review</title>
+      <link>https://linux.net.pk/mobilink-infinity-second-review/</link>
+      <pubDate>Thu, 31 Jul 2008 13:43:12 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/mobilink-infinity-second-review/</guid>
+      <description>I’ve been using Mobilink Infinity Wimax service for the last 20 days or so , and wanted to share some numbers / graphs with users. I’ve been plotting it 24/7 by SNMP . The overall usage experience is okay now, the service works most of the times ( apart from the weird timeouts that i start getting sometimes ). The only thing we need from Mobilink Infinity team now , is to</description>
+    </item>
+    
+    <item>
+      <title>Freeswitch :: Register-proxy Bug</title>
+      <link>https://linux.net.pk/freeswitch-register-proxy-bug/</link>
+      <pubDate>Sun, 27 Jul 2008 06:55:08 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/freeswitch-register-proxy-bug/</guid>
+      <description>While trying to configure wateen sip on my freeswitch install , i encountered a bug , aparently wateen has a broken implementation , they dont have srv records for their domain wateen.net, but their sip server / ims envoirnment seems to be forcing it , in the sip – uri. Here’s exactly whats broken
+Working – Eyebeam
+REGISTER sip:wateen.net SIP/2.0
+To: Wateen Usersip:[021xxxxx@wateen.net][1]
+From: Wateen Usersip:[021xxxxx@wateen.net][1];tag=90298206
+Via: SIP/2.0/UDP 192.168.1.51:6473;branch=z9hG4bK-d87543-704653288-1–d87543-;rport
+Call-ID: 3736784a1d468701</description>
+    </item>
+    
+    <item>
+      <title>Mobilink Infinity :: Freeswitch :: One Way Audio</title>
+      <link>https://linux.net.pk/mobilink-infinity-freeswitch-one-way-audio/</link>
+      <pubDate>Tue, 22 Jul 2008 10:53:15 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/mobilink-infinity-freeswitch-one-way-audio/</guid>
+      <description>If you are facing one way audio issue with freeswitch for all outgoing calls via mobilink infinity trunk , all you need to do is to edit conf/vars.xml and set EXT_SIP_IP &amp;amp; EXT_RTP_IP to 192.168.100.1 . That’s it , your one way audio issue will be resolved 🙂 .</description>
+    </item>
+    
+    <item>
+      <title>Howto configure Mobilink Infinity VoIP on Freeswitch</title>
+      <link>https://linux.net.pk/howto-configure-mobilink-infinity-voip-on-freeswitch/</link>
+      <pubDate>Mon, 21 Jul 2008 20:23:47 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/howto-configure-mobilink-infinity-voip-on-freeswitch/</guid>
+      <description>You can configure your mobilink infinity VoIP number on Freeswitch aswell , Freeswitch is a very nice alternative to Asterisk with a SIP stack that actually works! BKW @ #freeswitch on irc.freenode.net helped me with this 🙂
+Here is the conf/sip_profiles/external/mobilink.xml settings
+_Here’s the dialplan entry conf/dialplan/extensions/000_myext.xml
+
+Oh by the way , for this, make sure the SIP ALG on your outdoor cpe is turned on , while the indoor one needs to be off 🙂</description>
+    </item>
+    
+    <item>
+      <title>Reverse SSH Tunnel</title>
+      <link>https://linux.net.pk/reverse-ssh-tunnel/</link>
+      <pubDate>Mon, 21 Jul 2008 18:07:58 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/reverse-ssh-tunnel/</guid>
+      <description>ISPs in PK don’t generally allow incoming traffic to your public IP rendering it useless, this is a real pain , when you want to access your machine from a remote location. The solution to it is a reverse ssh tunnel, which will work in the following way
+[Home Machine] ==&amp;gt; {Middle Machine} ==&amp;gt; {You}
+So you’ll map a port from your home machine to your middle machine , which when connected to from the middle machine will forward all traffic to your home machine.</description>
+    </item>
+    
+    <item>
+      <title>Howto Use Wateen on Your Softphone</title>
+      <link>https://linux.net.pk/howto-use-wateen-on-your-softphone/</link>
+      <pubDate>Sun, 20 Jul 2008 10:03:13 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/howto-use-wateen-on-your-softphone/</guid>
+      <description>Here’s the info on howto use your wateen number on your softphone from anywhere in the world!
+User name: 051800XXXX
+Authorization User: 051800XXXX@wateen.com**
+Domain:** wateen.com
+**Proxy:** 58.27.240.22:9060
+You can get the Wateen user name from support@wateen.com</description>
+    </item>
+    
+    <item>
+      <title>Howto register your Mobilink Infinity VoIP number on Softphone</title>
+      <link>https://linux.net.pk/howto-register-your-mobilink-infinity-voip-number-on-softphone/</link>
+      <pubDate>Sun, 20 Jul 2008 00:38:39 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/howto-register-your-mobilink-infinity-voip-number-on-softphone/</guid>
+      <description>Here are the SIP settings , if you want to use your VoIP number from Mobilink Infinity on a softphone.
+You’ll have to first logon to your CPE admin interface , Browse to NAT -&amp;gt; ALG and Uncheck “SIP ALG” and click Apply. If you use an outdoor unit , do the same with the outdoor CPE as well.
+Fireup x-lite and configure it with the following settings.
+Server: 10.215.11.250</description>
+    </item>
+    
+    <item>
+      <title>Mobilink Wimax</title>
+      <link>https://linux.net.pk/mobilink-wimax/</link>
+      <pubDate>Sat, 19 Jul 2008 22:37:39 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/mobilink-wimax/</guid>
+      <description>Here’s my post / first review of Mobilink Infinity , A new WiMax service by Mobilink GSM in Pakistan.
+I just subscribed to Mobilink Infinity for 1Mbps connection. The installers came over and installed it , the over all installation experience was okay , apart from the fact that they don’t provide you the CPE password , so you cannot do any port mapping / port forwarding, so had to fight with them to get the access.</description>
+    </item>
+    
+  </channel>
+</rss>

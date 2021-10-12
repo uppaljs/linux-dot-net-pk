@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>asterisk on linux dot net dot pk</title>
+    <link>https://linux.net.pk/tags/asterisk/</link>
+    <description>Recent content in asterisk on linux dot net dot pk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 12 Dec 2014 12:12:32 +0000</lastBuildDate><atom:link href="https://linux.net.pk/tags/asterisk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Configure Your PTCL SmartLink SIP Account On Freeswitch</title>
+      <link>https://linux.net.pk/freeswitch-configuration-ptcl/</link>
+      <pubDate>Fri, 12 Dec 2014 12:12:32 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/freeswitch-configuration-ptcl/</guid>
+      <description>Following up on my previous post on how to configure your PTCL Smart Link SIP account on asterisk, below is the configuration I used for PTCL – Just replace USERNAME and PASSWORD with your credentials.
+You will also need to change your user agent , This can be done by adding the below parameter in sip_profiles/external.xml</description>
+    </item>
+    
+    <item>
+      <title>Asterisk Config for PTCL SmartLink App</title>
+      <link>https://linux.net.pk/asterisk-config-ptcl-smartlink-app/</link>
+      <pubDate>Thu, 27 Nov 2014 13:09:30 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/asterisk-config-ptcl-smartlink-app/</guid>
+      <description>PTCL has recently launched an app called “SmartLink” , Which provides you access to your phone line over SIP , essentially providing landline access from anywhere.
+Since the land-line I have is only used for DSL and SmartTV, I wanted to set it up on SIP , so I can access it from any device.
+PTCL uses Huawei SoftX 3000 Soft Switches for this service , I have had experience on these switches from my previous jobs and I know that it requires PRACK support to start off , In addition , while configuring , I noticed that the user_agent also needs to be set to a certain value for the registration to be successful.</description>
+    </item>
+    
+    <item>
+      <title>Howto configure Mobilink Infinity VoIP on Freeswitch</title>
+      <link>https://linux.net.pk/howto-configure-mobilink-infinity-voip-on-freeswitch/</link>
+      <pubDate>Mon, 21 Jul 2008 20:23:47 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/howto-configure-mobilink-infinity-voip-on-freeswitch/</guid>
+      <description>You can configure your mobilink infinity VoIP number on Freeswitch aswell , Freeswitch is a very nice alternative to Asterisk with a SIP stack that actually works! BKW @ #freeswitch on irc.freenode.net helped me with this 🙂
+Here is the conf/sip_profiles/external/mobilink.xml settings
+_Here’s the dialplan entry conf/dialplan/extensions/000_myext.xml
+
+Oh by the way , for this, make sure the SIP ALG on your outdoor cpe is turned on , while the indoor one needs to be off 🙂</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>died on linux dot net dot pk</title>
+    <link>https://linux.net.pk/tags/died/</link>
+    <description>Recent content in died on linux dot net dot pk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 18 Aug 2008 21:29:50 +0000</lastBuildDate><atom:link href="https://linux.net.pk/tags/died/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mobilink WiMax Woes</title>
+      <link>https://linux.net.pk/mobilink-wimax-woes/</link>
+      <pubDate>Mon, 18 Aug 2008 21:29:50 +0000</pubDate>
+      
+      <guid>https://linux.net.pk/mobilink-wimax-woes/</guid>
+      <description>My Mobilink Wimax Zyxel CPE died tonight , somewhere around 10 , It first stopped camping and then just stopped broadcasting wifi signals as well , I tried ethernet , but of no use , the 4 port switch is the only thing that’s working. I don’t know what’s wrong with this equipment 🙁
+Have logded a complaint on 369 , let’s hope they can fix this issue.
+UPDATE: Turns out my indoor CPE was faulty.</description>
+    </item>
+    
+  </channel>
+</rss>
