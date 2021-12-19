@@ -3,8 +3,8 @@ title: What’s the point of having Business / Sky Priority?
 author: uppal
 type: post
 date: 2014-10-07T22:05:57+00:00
-draft: true
-private: true
+draft: false
+private: false
 url: /whats-the-point-of-having-business-sky-priority/
 geo_latitude:
   - 24.900724

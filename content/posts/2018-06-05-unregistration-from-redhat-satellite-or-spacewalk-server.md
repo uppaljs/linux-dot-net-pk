@@ -12,11 +12,11 @@ categories:
 ---
 Ideally use
 ```console
-# subscription-manager unregister 
+# subscription-manager unregister
 ```
 
 Otherwise:
 ```console
-# rm /etc/sysconfig/rhn/systemid 
+# rm /etc/sysconfig/rhn/systemid
 ```
 should do the trick.
