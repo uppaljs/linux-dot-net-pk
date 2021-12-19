@@ -22,7 +22,7 @@ Writing this post while sitting at Jinnah International Karachi.
 
 Had an awful time checking in for my flight as the sky priority line was completely taken up by economy passengers who wouldn&#8217;t budge, which got me to thinking about the benefits of the airlines loyalty / frequent flyer program.
 
-I am an elite on Al Fursan, platinum on Emirates, Gold on Gulf and Platinum on Skywards, but rarely have I seen any grades or actual benefits coming my way.
+I am an elite on Al Fursan, platinum on Emirates and Gold on Gulf, but rarely have I seen any grades or actual benefits coming my way.
 
 There was a time when I used to religiously chase the miles, but I kinda gave up after being treated like shit multiple times.
 
