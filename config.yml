@@ -1,7 +1,9 @@
 baseURL: "https://linux.net.pk"
 title: "linux dot net dot pk"
-paginate: 10
 theme: PaperMod
+
+pagination:
+  pagerSize: 10
 
 enableRobotsTXT: true
 buildDrafts: false
