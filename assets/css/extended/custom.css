@@ -1,0 +1,8 @@
+.goat svg {
+  max-width: 600px;
+  height: auto;
+}
+
+.goat svg text {
+  font-size: 11px !important;
+}
