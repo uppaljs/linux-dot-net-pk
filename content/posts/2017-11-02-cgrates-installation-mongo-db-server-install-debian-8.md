@@ -1,20 +1,13 @@
 ---
-title: 'CGRateS Tutorial Series- Installation – Mongo DB Server Install – Debian 8 – Part 1'
-author: uppal
-type: post
-date: 2017-11-02T17:11:57+00:00
-url: /cgrates-installation-mongo-db-server-install-debian-8/
-spacious_page_layout:
-  - default_layout
+title: "CGRateS Tutorial Series: Installation - Mongo DB Server Install - Debian 8 - Part 1"
+date: 2017-11-02
 categories:
-  - cgrates
   - Howtos
-  - mongo
 tags:
   - cgrates
-  - howto
-  - mongo
-
+  - mongodb
+  - debian
+draft: false
 ---
 Below are the steps to prepare a stand alone mongodb server for cgrates on Debian 8 jessie
 
@@ -82,7 +75,7 @@ Successfully added user: {Successfully added user: { "user" : "cgrates", "roles"
 
 By default mongo server will only listen to localhost, modify that in** /etc/mongod.conf**
 
-Quick Restart and you&#8217;re good to go!
+Quick Restart and you're good to go!
 ```console
 # systemctl restart mongod
 ```
