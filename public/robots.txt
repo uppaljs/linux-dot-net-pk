@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://linux.net.pk/sitemap.xml
