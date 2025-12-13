@@ -93,8 +93,6 @@ params:
           url: "https://twitter.com/uppaljs"
         - name: email
           url: "mailto:junaid.uppal+blog@gmail.com"
-        - name: keybase
-          url: "https://keybase.io/uppal"
         - name: linkedin
           url: "https://www.linkedin.com/in/junaid-saeed-uppal-5b3a253/"
 
